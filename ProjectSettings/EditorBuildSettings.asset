@@ -6,6 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/NavSight.unity
-    guid: c268e368dc6e045c58a8b2bece081d8c
+    path: Assets/Scenes/NavSightTest.unity
+    guid: 06ac6fd9ecc7343beb7bed60b4706374
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

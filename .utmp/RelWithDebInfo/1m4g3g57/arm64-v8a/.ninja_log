@@ -1,0 +1,5 @@
+# ninja log v5
+367	788	1711135315310254923	/Users/mac/Documents/ExtendedReality/UnityProjects/NavSight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1m4g3g57/obj/arm64-v8a/libswappywrapper.so	30be6df70d74e8b7
+0	365	1711135315069962609	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	282669ae61788405
+2	22351	1713201108867858513	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	282669ae61788405
+22352	30137	1713201115694291797	/Users/mac/Documents/ExtendedReality/UnityProjects/NavSight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1m4g3g57/obj/arm64-v8a/libswappywrapper.so	30be6df70d74e8b7
